@@ -68,7 +68,7 @@ yandex_site_verification :
 # social:
 #   type                   : # Person or Organization (defaults to Person)
 #   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Olga Dorabiala"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Applied Mathematician"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
