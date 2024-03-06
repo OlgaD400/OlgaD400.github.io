@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Applied Mathematics, University of Washington, 2023
+* M.S. in Applied Mathematics, University of Washington, 2021
+* B.S in Mathematics with Minors in Chemistry and German, Pennsylvania State University, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-Present: Visiting Postdoctoral Researcher
+  * The Alan Turing Institute, London, UK
+  * Duties included: Designing and analyzing algorithms for unsupervised learning using an optimizaiton framework
+  * Applying unsupervised learning methods to better characterize and understand patterns in real-wrold datasets
+  * Supervisor: Dr. Nathan J. Kutz
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2023: Graduate Research Assistant
+  * University of Washington, Seattle, WA, USA
+  * Duties included: 
+  * Supervisors: Dr. Nathan J. Kutz and Dr. Aleksandr Aravkin
+
+* Summer 2022: Machine Learning Engineer
+  
   
 Skills
 ======
