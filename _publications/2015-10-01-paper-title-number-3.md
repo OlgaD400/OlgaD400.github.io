@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "A Novel Method for Vertex Clustering in Dynamic Networks"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Proceedings of The Twelfth International Conference on Complex Networks and their Applications'
+paperurl: 'http://OlgaD400.github.io/files/STGkM.pdf'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+In this paper, we introduce spatiotemporal graph k-means (STGkM), a novel, unsupervised method to cluster vertices within a dynamic network. Drawing inspiration from traditional k-means, STGkM finds both short-term dynamic clusters and a “long-lived” partitioning of vertices within a network whose topology is evolving over time. We provide an exposition of the algorithm, illuminate its operation on synthetic data, and apply it to detect political parties from a dynamic network of voting data in the United States House of Representatives. One of the main advantages of STGkM is that it has only one required parameter, namely k; we therefore include an analysis of the range of this parameter and guidance on selecting its optimal value. We also give certain theoretical guarantees about the correctness of our algorithm.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://OlgaD400.github.io/files/STGkM.pdf)
