@@ -2,7 +2,7 @@
 title: "Ensemble Principal Component Analysis"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-2
-excerpt: "This paper is about the number 2. The number 3 is left for future work.<br/><img src='/images/EnsemblePCAGraphic.pdf'>"
+excerpt: "Principal Component Analysis (PCA) is one of the most common dimensionality reduction techniques used for the analysis of large, multivariate datasets today, but the method is sensitive to outliers and noise and has no clear methodology for the uncertainty quantification of the purely descriptive information it provides. Whereas previous work has focused on each of these problems individually, we propose a scalable method called Ensemble PCA (EPCA) that addresses them simultaneously for data which has an inherently low-rank structure. EPCA combines boostrapped PCA with k-means cluster analysis to proivde a noise-resistant extension of PCA that lends itself naturally to uncertainty quantification.<br/><img src='/images/EnsemblePCAGraphic.pdf'>"
 date: 2010-10-01
 venue: 'IEEE Access'
 paperurl: 'http://OlgaD400.github.io/files/EPCA.pdf'
