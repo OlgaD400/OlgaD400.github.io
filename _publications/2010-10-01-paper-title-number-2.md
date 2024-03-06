@@ -2,7 +2,7 @@
 title: "Ensemble Principal Component Analysis"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.<br/><img src='/images/500x300.png'>'
 date: 2010-10-01
 venue: 'IEEE Access'
 paperurl: 'http://OlgaD400.github.io/files/EPCA.pdf'
