@@ -2,7 +2,7 @@
 title: "A Novel Method for Vertex Clustering in Dynamic Networks"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: "In this paper, we introduce spatiotemporal graph k-means (STGkM), a novel, unsupervised method to cluster vertices and discover multi-scale relationships within a dynamic network. <br/><img src='/images/Synthetic_cluster_evolution.pdf'>"
 date: 2015-10-01
 venue: 'Proceedings of The Twelfth International Conference on Complex Networks and their Applications'
 paperurl: 'http://OlgaD400.github.io/files/STGkM.pdf'
