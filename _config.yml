@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Olga Dorabiala"
-  avatar           : "profile.png"
-  bio              : "Applied Mathematician"
+  avatar           : "profile_pic.png"
+  bio              : "Applied Mathematician; Postdoctoral Scholar at the AI Institute for Dyanmical Systems at UW; Visiting Researcher at The Alan Turing Institute"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
@@ -187,7 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -242,6 +244,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
       author_profile: true
       share: true
 
