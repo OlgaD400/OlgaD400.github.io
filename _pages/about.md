@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Olga Dorabiala, and I'm a postdoctoral scholar with the AI Institute for Dyanmical Systems at the University of Washington 🏔. I'm currently doing a stint in London, UK 💂‍♀️ as a visitng researcher at the Alan Turing Institute. My research is primarily focused on developing novel methods for unsupervised learning, particularly dimensionality reduction and clustering. Some of my interests include, 
+My name is Olga Dorabiala, and I'm a postdoctoral scholar with the AI Institute for Dyanmical Systems at the University of Washington 🏔. I'm currently doing a stint in London, UK 💂‍♀️ as a visiting researcher at the Alan Turing Institute. My research is primarily focused on developing novel methods for unsupervised learning, particularly dimensionality reduction and clustering. Some of my interests include, 
 
   * Creating methods that are robust to outliers and noise, either through techniques such as bagging and bootstrapping or by taking an optimization approach and directly augmenting a methods’ objective function. 
   * Exploring ways to provide uncertainty quantification for methods where analytical solutions are impractical.
