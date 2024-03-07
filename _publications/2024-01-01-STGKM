@@ -1,0 +1,12 @@
+---
+title: "Vertex Clustering in Diverse Dynamic Networks"
+collection: publications
+permalink: /publication/2024-01-01-STGKM
+excerpt: "In this paper, we provide additional theoretical and experimental results for spatiotemporal graph k-means (STGkM)—a new unsupervised method to cluster vertices within a dynamic network. STGkM finds both short-term dynamic clusters and a “long-lived” partitioning of vertices within a network whose topology is evolving over time; we first introduced this technique in a recent conference paper. <br/><img src='/images/Synthetic_cluster_evolution.pdf'><br/>Three snapshots of a dynamic graph and the dynamic clustering as predicted by STGkM. Cluster centroids are identified by enlarged nodes."
+date: 2024-01-01-STGKM
+venue: 'in submission'
+paperurl: 'http://OlgaD400.github.io/files/STGKM_paper.pdf'
+---
+In this paper, we provide additional theoretical and experimental results for spatiotemporal graph k-means (STGkM)—a new unsupervised method to cluster vertices within a dynamic network. STGkM finds both short-term dynamic clusters and a “long-lived” partitioning of vertices within a network whose topology is evolving over time; we first introduced this technique in a recent conference paper. In this work, we provide an updated exposition of the algorithm with a more efficient relaxation scheme. We review our previous theoretical results with respect to connected components, along with further analysis for certain important classes of dynamic networks to distinguish STGkM from connected components and static clustering. We also provide results for the stochastic setting for the first time. With respect to empirical results, we report on additional experiments from the previously used United States House of Representatives dataset, along with new results on a dynamic scientific citation network and Reddit dataset. These findings demonstrate that STGkM is efficient, informative, and operates well in diverse settings. Finally, as previously noted, one of the main advantages of STGkM is that it has only one required parameter: k, the number of clusters; we therefore include an extended analysis of the range of this parameter and guidance on selecting its optimal value.<br/><img src='/images/Synthetic_cluster_evolution.pdf'><br/>Three snapshots of a dynamic graph and the dynamic clustering as predicted by STGkM. Cluster centroids are identified by enlarged nodes.
+
+[Download paper here](http://OlgaD400.github.io/files/STGKM_paper.pdf)
